@@ -22,7 +22,7 @@ jobs:
 
   build:
     needs: host-tests
-    runs-on: macos-latest
+    runs-on: xcode-27
     timeout-minutes: 60
     steps:
       - name: Check out this patch kit
