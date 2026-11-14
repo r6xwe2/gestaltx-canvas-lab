@@ -1,0 +1,35 @@
+Applied Canvas Lab source add-on. No IPA was built or signed by this script.
+Applied Canvas Lab source add-on. No IPA was built or signed by this script.
+Canvas Lab patch is already applied and matches this kit.
+Reviewed source anchors match; dry run made no changes.
+Applied Canvas Lab source add-on. No IPA was built or signed by this script.
+
+test_all_temporary_names_busy_refused_without_deleting_them (test_host.AtomicFileTests.test_all_temporary_names_busy_refused_without_deleting_them) ... ok
+test_byte_exact_restore_using_same_primitive (test_host.AtomicFileTests.test_byte_exact_restore_using_same_primitive) ... ok
+test_competing_advisory_lock_refused (test_host.AtomicFileTests.test_competing_advisory_lock_refused) ... ok
+test_empty_replacement_refused (test_host.AtomicFileTests.test_empty_replacement_refused) ... ok
+test_existing_temporary_file_is_not_overwritten (test_host.AtomicFileTests.test_existing_temporary_file_is_not_overwritten) ... ok
+test_group_writable_file_refused (test_host.AtomicFileTests.test_group_writable_file_refused) ... ok
+test_hardlink_refused (test_host.AtomicFileTests.test_hardlink_refused) ... ok
+test_mismatched_snapshot_leaves_original (test_host.AtomicFileTests.test_mismatched_snapshot_leaves_original) ... ok
+test_missing_target_is_not_created (test_host.AtomicFileTests.test_missing_target_is_not_created) ... ok
+test_non_directory_descriptor_refused (test_host.AtomicFileTests.test_non_directory_descriptor_refused) ... ok
+test_null_input_refused (test_host.AtomicFileTests.test_null_input_refused) ... ok
+test_original_content_changed_after_open_refused (test_host.AtomicFileTests.test_original_content_changed_after_open_refused) ... ok
+test_oversized_replacement_refused (test_host.AtomicFileTests.test_oversized_replacement_refused) ... ok
+test_replace_and_preserve_unrelated_plist_values (test_host.AtomicFileTests.test_replace_and_preserve_unrelated_plist_values) ... ok
+test_special_permission_bits_refused (test_host.AtomicFileTests.test_special_permission_bits_refused) ... ok
+test_swapped_inode_refused_even_with_same_bytes (test_host.AtomicFileTests.test_swapped_inode_refused_even_with_same_bytes) ... ok
+test_symlink_refused (test_host.AtomicFileTests.test_symlink_refused) ... ok
+test_additional_terminal_newline_allowed (test_host.PatchTests.test_additional_terminal_newline_allowed) ... ok
+test_apply_and_idempotent_repeat (test_host.PatchTests.test_apply_and_idempotent_repeat) ... ok
+test_dry_run_does_not_modify (test_host.PatchTests.test_dry_run_does_not_modify) ... ok
+test_existing_destination_refused (test_host.PatchTests.test_existing_destination_refused) ... ok
+test_partially_applied_patch_refused (test_host.PatchTests.test_partially_applied_patch_refused) ... ok
+test_symlink_entry_point_refused (test_host.PatchTests.test_symlink_entry_point_refused) ... ok
+test_unreviewed_version_refused (test_host.PatchTests.test_unreviewed_version_refused) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.096s
+
+OK
